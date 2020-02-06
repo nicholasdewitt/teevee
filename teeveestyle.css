@@ -4,4 +4,12 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #f7e6f6;
+    font-family: "Wingdings", "Times New Roman";
 }
