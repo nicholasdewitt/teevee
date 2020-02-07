@@ -19,8 +19,11 @@ h2 {
 	text-transform: lowercase;
 	color: #f7e6f6;
     font-family: "Amiko";
-    font-size: 72
+    font-size: 72;
 }
-a {
+div.linksdiv {
     text-align: center;
+    font-size:36;
+    margin-left: auto;
+    margin-right: auto;
 }
