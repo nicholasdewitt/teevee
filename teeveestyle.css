@@ -21,8 +21,10 @@ h2 {
     font-family: "Amiko";
     font-size: 72;
     margin-left: 5%;
+    margin-top: -45px;
 }
 div.linksdiv {
+    /*NRD TODO make the font nicer and make sure it's white*/
     text-align: center;
     font-size:36;
     margin-left: auto;
