@@ -26,4 +26,8 @@ div.linksdiv {
     font-size:36;
     margin-left: auto;
     margin-right: auto;
+    font-family: "";
+}
+a{
+    text-decoration: none;
 }
